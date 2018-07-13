@@ -3,7 +3,7 @@ import os, time
 
 # remote ssh credentials
 #test
-#env.hosts = ['172.28.0.214']
+env.hosts = ['118.69.132.98']
 
 #HCM
 #env.hosts = ['172.28.0.102', '172.28.0.106', '172.28.0.110',\
